@@ -1,0 +1,7 @@
+sqlalchemy
+python-dotenv
+pyodbc
+shap
+pandas
+alibi
+scikit-learn
