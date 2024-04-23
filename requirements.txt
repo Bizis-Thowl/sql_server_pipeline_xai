@@ -5,3 +5,4 @@ shap
 pandas
 alibi
 scikit-learn
+notebook
